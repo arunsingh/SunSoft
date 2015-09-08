@@ -47,7 +47,7 @@ public class SunSofProb {
 		  //Create fresh GET  request for mentioned URL in Prob Stmt
 		
 		
-		HttpGet getRequest = new HttpGet ("http://surya-interview.appspot.com");
+		HttpGet getRequest = new HttpGet ("http://surya-interview.appspot.com/message");
 			
 		 // Add header to accept getRequest which accepts application/JSON data
 		
